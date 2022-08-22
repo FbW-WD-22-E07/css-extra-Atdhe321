@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+.Navi{
+            width: 100vw;
+            height: 20vh;
+            background-color: red;
+            font-size: x-large;
+            color:black;
+            text-align: center;
+            margin: 10px 5px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            place-items: center;
+            font-size: rem-calc(20px);
+} 
+
+.Navi :hover{
+    background-color: aliceblue;
+} 
+
+.section1{
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 15px;
+    margin: 10px 5px;
+}  
+
+.section2{
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 15px;
+    margin: 10px 5px;
+} 
+
+.section3{
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 15px;
+    margin: 10px 5px;
+}
